@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+
+![parrot_hd](https://user-images.githubusercontent.com/96802939/183565670-90116c0f-bf5e-4d00-bb4c-aa214f3dfc90.gif)
+
 **arunlald/arunlald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
